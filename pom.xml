@@ -77,7 +77,7 @@
 			<artifactId>spring-boot-starter-webmvc-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+	    <dependency>`n        <groupId>com.h2database</groupId>`n        <artifactId>h2</artifactId>`n        <scope>runtime</scope>`n    </dependency>`n</dependencies>
 
 	<build>
 		<plugins>
